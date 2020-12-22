@@ -1,4 +1,4 @@
-# MorseCodeTranslator
+# MorseCodeTranslator on Python
 
 ### Переводчик азбуки Морзе на русский и английский, а также наоборот
 
