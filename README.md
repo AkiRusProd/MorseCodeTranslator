@@ -4,11 +4,14 @@
 
 ## Запуск
 
-Запускаем 'main.py' и наслаждаемся.
+Запускаем `main.py` и наслаждаемся.
 
 ## Скрипты
-MorseDe&Encryptor.py - непосредственно сам переводчик, но без интерфейса.
+`MorseDe&Encryptor.py` - непосредственно сам переводчик, но без интерфейса.
 
-main.py - тот же переводчик, но с подключённым интерфейсом.
+`main.py` - тот же переводчик, но с подключённым интерфейсом.
 
-PySideGUI.py - графический интерфейс,созданный в Qt Designer с использованием библиотеки PySide2.
+`PySideGUI.py` - графический интерфейс,созданный в Qt Designer с использованием библиотеки PySide2.
+## Скрины
+![img](https://github.com/AkiRusProd/MorseCodeTranslator/blob/main/Screenshots/1.jpg)
+![img](https://github.com/AkiRusProd/MorseCodeTranslator/blob/main/Screenshots/2.jpg)
